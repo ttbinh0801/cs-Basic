@@ -1,0 +1,52 @@
+h1 {
+    color: brown;
+    text-align:center ;
+    text-decoration: underline;
+    background-color: green;
+    transition: all 0.4s linear;
+}
+h1:hover{
+    background-color: black;
+    text-decoration: none;
+}
+
+
+button{
+    background-color: green;
+    color: aliceblue;
+    padding: 16px 32 px;
+    font-size: 42.0843px;
+    border-radius: 80px;
+    transition: all 0.7s linear;
+}
+button:hover{
+    background-color: beige;
+}
+
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 100px;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+section{
+    width: 80px;
+    height: 80px;
+    background-color: blueviolet;
+    animation: showmodel 3s infinite linear;
+}
+
+@keyframes showmodel{
+    0%{
+        transform: translateX(-110%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
+

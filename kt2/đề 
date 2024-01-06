@@ -1,0 +1,65 @@
+Mini Hackathon 01
+-----------------
+
+Câu 1: Cho một biến my_string = "Python is awesome!"
+    a. Hãy in ra độ dài của chuỗi my_string?
+    b. Hãy viết in hoa chuỗi my_string.
+
+Câu 2: Cho một số nguyên x nhập từ bàn phím, hãy kiểm tra xem x có phải là số chẵn không?
+
+Câu 3: Cho danh sách numbers = [1, 4, "e", 2, 6, 8, "a", "b"].
+    a. Tính tổng các số trong danh sách numbers
+    b. Tính tích các số trong danh sách numbers
+    c. Tìm giá trị lớn nhất trong danh sách numbers
+    d. Tìm giá trị nhỏ nhất trong danh sách numbers
+
+Câu 4: Cho một danh sách numbers = [1.5, 2.7, 3.0, 4.8, 5.2]. Hãy tìm và in ra giá trị lớn nhất trong danh sách này.
+
+Câu 5: Viết một chương trình Python để kiểm tra xem một số nguyên đã cho có chia hết cho cả 3 và 5 không?
+
+Câu 6: Tính tổng các số lẻ từ 1 đến n (với n là số nguyên dương được nhập từ bàn phím)
+
+Câu 7: Cho một danh sách words = ["apple", "banana", "cherry", "date"]. Hãy in ra các từ có độ dài lớn hơn 5 ký tự.
+
+Câu 8: Cho một số nguyên n, hãy tính tổng các số chẳn từ 1 đến n sử dụng vòng lặp while.
+
+Câu 9: Hãy viết một chương trình Python để kiểm tra xem một số nguyên x có phải là số nguyên tố không?
+
+Câu 10: Cho một danh sách values = [10, 20, 30, 40, 50] và một số nguyên target. Hãy kiểm tra xem target có tồn tại trong danh sách values không, và in ra kết quả .  
+
+Câu 11: Cho danh sách students = ["An", "Thanh", "Tri", "Quang", "Duong"]. 
+    a. Có bao nhiêu học sinh trong danh sách
+    b. Sử dụng vòng lặp in theo định dạng sau:
+        Hello An
+        Hello Thanh
+        Hello Tri
+        Hello Quang
+        Hello Duong
+    c. Sắp xếp danh sách theo thứ tự bảng chữ cái (a, b, c,...)
+
+Câu 12: Quản lý menu nhà hàng. Sử dụng list để lưu trữ dữ liệu
+        Cho phép người dùng thực hiện các thao tác sau:
+            a. Thêm một món ăn mới vào menu.
+            b. Xem menu.
+            c. Chỉnh sửa thông tin một món ăn trong menu.
+            d. Xóa một món ăn khỏi menu.
+        Hãy tạo menu với các chức năng trên
+
+Câu 13: Thực hiện theo yêu cầu sau:
+    Input: numbers = [2, 7, 11, 5], target = 9
+    Output: [0, 1]
+    Explanation: numbers[0] + numbers[1] == 9, return [0, 1]
+
+Câu 14: Thực hiện theo yêu cầu sau:
+    Input: number_1 = [4, 6], number_2 = [5]
+    Output: 5.00000
+    Explanation: Merge: [4, 5, 6] --> Median: 5.0000
+
+Câu 15: Thực hiện theo yêu cầu sau:
+    Input: number_1 = [1, 2], number_2 = [3, 4]
+    Output: 2.5
+    Explanation: Merge: [1, 2, 3, 4] --> Median: 2.5
+    
+
+
+
